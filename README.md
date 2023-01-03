@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can find a list of my **favorite projects** at [https://corvespace.de](https://corvespace.de/projects/)
+You can find a list of my **favorite projects** at [**https://corvespace.de**](https://corvespace.de/projects/)
 
 ---
 
