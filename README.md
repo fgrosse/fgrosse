@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You can find a list of my **favorite projects** at [https://corvespace.de](https://corvespace.de/projects/)
+
+---
+
 [![Friedrich's github stats](https://github-readme-stats.vercel.app/api?username=fgrosse)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
