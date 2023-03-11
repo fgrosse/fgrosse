@@ -4,7 +4,7 @@ You can find a list of my **favorite projects** at [**https://corvespace.de**](h
 
 ---
 
-[![Friedrich's github stats](https://github-readme-stats.vercel.app/api?username=fgrosse)](https://github.com/anuraghazra/github-readme-stats)
+![Friedrich's github stats](https://github-readme-stats.vercel.app/api?username=fgrosse&show_icons=true&theme=nord&include_all_commits=true&hide=contribs&custom_title=My%20GitHub%20stats%20%28not%20counting%20go-joe%2Fjoe%29)
 
 <!--
 **fgrosse/fgrosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
